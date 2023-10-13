@@ -1,0 +1,12 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+     margin-left: 20px;
+     margin-top: 50px;
+   
+     height: 70vh;
+}
+.image{
+    height: 40vh;
+}

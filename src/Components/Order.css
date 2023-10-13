@@ -1,0 +1,9 @@
+.col-12
+{
+ display: flex;
+   
+}
+.col-12 Button{
+    margin-left: 20px;
+    margin-top: 20px;
+}

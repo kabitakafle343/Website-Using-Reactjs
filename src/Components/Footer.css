@@ -1,0 +1,31 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+}
+
+.social-icon {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: color 0.3s;
+}
+
+.social-icon:hover {
+  color: #ccc;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.py-3 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+.ficon{
+  margin-left: 46%;
+}
